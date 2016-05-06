@@ -1,0 +1,15 @@
+cronjob
+
+it is use to schedual any task in particular time, which can use to send an email to verify.
+we have 6 fileds .
+min,hour,day of month,month,day of week, command to execute
+crontab -l ---to check any cronjob is der,the list will be displayed
+crontab -e --- to give the cronjob to execute at particular time 
+date --- to check the time of system 
+
+23 5 * * * command which we want ot execute 
+
+
+
+
+  
